@@ -3,7 +3,8 @@
 - 👨‍💻 I have just finished my bootcamp at <Academia de Código_>
 - 📫 How to reach me: pedrodbertolopereira@gmail.com
 
-
+  ##
+ 
  <div>
   <a href="https://github.com/PedroBertolo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroBertolo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
