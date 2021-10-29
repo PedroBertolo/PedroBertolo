@@ -1,8 +1,5 @@
-### Welcome 🙏
-
-##
-
-  <div align="center">
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<div align="center">
   <a href="https://github.com/PedroBertolo">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=PedroBertolo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBertolo&layout=compact&langs_count=7&theme=onedark"/>
@@ -25,8 +22,6 @@
   <a href = "mailto:pedrodbertolopereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.hackerrank.com/PedroBertolo" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pedrobertoloo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-  
 </div>
  
   
