@@ -1,23 +1,10 @@
 ## Welcome 🙏 !
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center"height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBertolo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBertolo&layout=compact&langs_count=7&theme=onedark" />
-</a>
-
-
-##
-
-##
 ##
 <div align="center">
   <a href="https://github.com/PedroBertolo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBertolo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBertolo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroBertolo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBertolo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
   <div style="display: inline_block"><br>
