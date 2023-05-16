@@ -14,8 +14,9 @@
   <img align="center" alt="mysql" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
- ##
+  ![Codewars](https://github.r2v.ch/codewars?user=PedroBertolo&name=true&top_languages=false&stroke=%23b362ff&theme=purple_dark)
   
+ ##
  <div> 
   <a href="https://www.linkedin.com/in/pedro-bertolo-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrodbertolopereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
